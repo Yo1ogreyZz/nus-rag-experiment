@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+venv/
+env/
+ENV/
+
+# 向量数据库（太大，不上传）
+data/vector_db/
+*.db
+*.sqlite
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# 临时文件
+*.log
+*.tmp
+.cache/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# 大文件/模型（如果有）
+ollama/
+*.bin
+*.gguf
+*.tar.gz

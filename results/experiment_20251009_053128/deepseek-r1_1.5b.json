@@ -1,0 +1,22 @@
+{
+  "factual": {
+    "questions_count": 1,
+    "average_score": 0.43,
+    "details": [
+      {
+        "question": "What is the address of NUS Central Library?",
+        "answer": "<think>\nOkay, I need to figure out where NUS Central Library is located in Singapore. From what I know, libraries have addresses on their official websites. Let me look up the address for NUS Central Library.\n\nFirst, checking the document provided about NUS Central Library, it has the address as 12 Kent Ridge Drive, Singapore 119275. That seems straightforward. The operating hours are listed too: Monday to Friday from 8 AM to 10 PM, Saturday from 9 AM to 6 PM, and Sunday closed.\n\nWait, but sometimes libraries might have other addresses or different formats. Since the document has both the address and the hours, I should probably include both parts of the answer as they are given in the context.\n\nSo, putting it together: The address is 12 Kent Ridge Drive, Singapore 119275, and the operating hours are Monday to Friday 8 AM-10 PM, Saturday 9 AM-6 PM, Sunday closed. I think that's all the information needed from this context.\n</think>\n\nThe address of NUS Central Library is located on 12 Kent Ridge Drive, Singapore 119275. The library operates with specific hours: Monday to Friday from 8:00 AM to 10:00 PM, Saturday from 9:00 AM to 6:00 PM, and Sunday is closed.",
+        "retrieved_docs_count": 1,
+        "evaluation": {
+          "category": "factual",
+          "length_score": 0.5,
+          "specificity_score": 0.7,
+          "clarity_score": 0.0,
+          "total_score": 0.43,
+          "answer_length": 1175,
+          "has_specific_info": true
+        }
+      }
+    ]
+  }
+}
