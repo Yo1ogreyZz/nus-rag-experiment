@@ -23,7 +23,7 @@ class OllamaClient:
                     "temperature": temperature,
                     "stream": False
                 },
-                timeout=120
+                timeout=300
             )
             
             if response.status_code == 200:
