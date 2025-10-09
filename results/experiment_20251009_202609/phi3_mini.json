@@ -1,0 +1,44 @@
+{
+  "factual": {
+    "questions_count": 1,
+    "average_score": 0.88,
+    "details": [
+      {
+        "question": "What is the address of NUS Central Library?",
+        "answer": "NUS Central Library Address: 12 Kent Ridge Drive, Singapore 119275",
+        "retrieved_docs_count": 3,
+        "evaluation": {
+          "category": "factual",
+          "length_score": 1.0,
+          "specificity_score": 0.7,
+          "clarity_score": 1.0,
+          "total_score": 0.88,
+          "answer_length": 66,
+          "has_specific_info": true
+        }
+      }
+    ]
+  },
+  "recommendation": {
+    "questions_count": 1,
+    "average_score": 0.85,
+    "details": [
+      {
+        "question": "Recommend some restaurants in Utown area.",
+        "answer": "Considering you are looking for halal options with good seating capacity and a variety of flavors available, I would highly recommend visiting Bismillah Biryani at UTown Stephen Riady Centre (SRC). It offers an extensive list of dishes in the Muslim-owned bistro setting within close proximity to NUS. The location is easy to find near University Town and it has 14 stalls with a seating capacity for up to 700 guests, accommodating large groups or gatherings comfortably during term time when operating hours are from Mon-Fri: 11.30am — 7.30pm on weekdays and Sat/Sun (depending on the day): 11.30 am – closing hour which ensures dining flexibility around NUS students' schedules, whether during term time or vacation hours from Mon-Sun: 8.00am - 9.00pm when they operate until much later in the evening on weekends and public holidals to cater to late night eaters as well!\n\nFor halal dining experiences that are open throughout a typical day with flexible vacation hours, The Royals Bistro is another great option located at Town Plaza. It has an intimate setting for up to 60 guests and operates from Mon-Sat: 11.00am - 8.00pm providing options in the evenings when students are likely off campus or unwinding after lectures, especially during vacation time where they operate until later into the night at 2.00am on weekends and public holidays. It's certified halal which is crucial for Muslim-owned food chains aiming to provide inclusive dining experiences in Singapore’s cosmopolitan setting.\n\nLastly, Hwang’s Korean Restaurant located at Town Plaza could be a refreshing option as it offers 14 stalls and seats up to 110 guests with flexible vacation operating hours from Mon-Sat: 10.30am - 9.00pm, allowing students late into the night before their evening classes or study sessions on Saturdays when they're closed during weekends for holidays and prayers; this will cater to those who may want a change of pace from traditional halal options while still respecting religious dietary laws.\n\nAll these recommended restaurants are within reasonable walking distance near the NUS campus as per their respective bus stops, with CREATE Tower being central for transferring between them should your destination changes throughout your evening or weekend plans!",
+        "retrieved_docs_count": 3,
+        "evaluation": {
+          "category": "recommendation",
+          "recommendation_score": 1.0,
+          "reasoning_score": 1.0,
+          "constraint_score": 1.0,
+          "diversity_score": 0.0,
+          "total_score": 0.85,
+          "has_recommendation": true,
+          "reasoning_indicators": 3,
+          "constraint_awareness": 4
+        }
+      }
+    ]
+  }
+}

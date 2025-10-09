@@ -1,0 +1,55 @@
+{
+  "timestamp": "2025-10-09T20:27:17.767213",
+  "models": {
+    "qwen2.5:3b": {
+      "factual": {
+        "questions_count": 1,
+        "average_score": 0.88
+      },
+      "recommendation": {
+        "questions_count": 1,
+        "average_score": 0.85
+      }
+    },
+    "qwen2.5:1.5b": {
+      "factual": {
+        "questions_count": 1,
+        "average_score": 0.88
+      },
+      "recommendation": {
+        "questions_count": 1,
+        "average_score": 0.7
+      }
+    },
+    "llama3.2:3b": {
+      "factual": {
+        "questions_count": 1,
+        "average_score": 0.88
+      },
+      "recommendation": {
+        "questions_count": 1,
+        "average_score": 0.725
+      }
+    },
+    "phi3:mini": {
+      "factual": {
+        "questions_count": 1,
+        "average_score": 0.88
+      },
+      "recommendation": {
+        "questions_count": 1,
+        "average_score": 0.85
+      }
+    },
+    "deepseek-r1:1.5b": {
+      "factual": {
+        "questions_count": 1,
+        "average_score": 0.73
+      },
+      "recommendation": {
+        "questions_count": 1,
+        "average_score": 0.85
+      }
+    }
+  }
+}

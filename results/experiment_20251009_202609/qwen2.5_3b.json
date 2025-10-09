@@ -1,0 +1,44 @@
+{
+  "factual": {
+    "questions_count": 1,
+    "average_score": 0.88,
+    "details": [
+      {
+        "question": "What is the address of NUS Central Library?",
+        "answer": "The address of NUS Central Library is 12 Kent Ridge Drive, Singapore 119275.",
+        "retrieved_docs_count": 3,
+        "evaluation": {
+          "category": "factual",
+          "length_score": 1.0,
+          "specificity_score": 0.7,
+          "clarity_score": 1.0,
+          "total_score": 0.88,
+          "answer_length": 76,
+          "has_specific_info": true
+        }
+      }
+    ]
+  },
+  "recommendation": {
+    "questions_count": 1,
+    "average_score": 0.85,
+    "details": [
+      {
+        "question": "Recommend some restaurants in Utown area.",
+        "answer": "Based on the information provided from Document 1, I would recommend visiting [Bismillah Biryani (MUSLIM OWNED)] for a traditional and flavorful meal. This restaurant offers halal food options and is conveniently located at UTown Stephen Riady Centre, which is easily accessible with nearby car parking facilities and bus stops.\n\nAnother excellent option within the UTown area would be [Flavours @ UTown], also known as UTown Fine Food. It's another great halal option that provides a seating capacity of 700 with 14 stalls spread out over multiple days in the term time, making it suitable for larger groups or events.\n\nFor those looking for more casual dining options, I recommend checking out [Mr Bean / Do Qoo (HALAL CERTIFIED)]. This establishment operates 24/7 and is located within the Town Plaza. It has a comfortable seating capacity of 15 and is situated near CREATE Tower car parking facilities, ensuring easy access to this convenient spot.\n\nIf you're in search of something unique or less common, I suggest exploring [The Royals Bistro] which is an excellent option for a meal out with family or friends. Located at the Town Plaza, it offers seating capacity of 60 and serves meals from Monday through Saturday. The restaurant has extended hours during vacations, providing more flexibility.\n\nIn terms of quick bites before heading back to your classes, [Supersnacks (PENDING HALAL CERTIFICATION)] is a great choice for a late night meal or breakfast option. Located at the Stephen Riady Centre with operating hours from Monday to Friday until 2 AM, and Saturday/Sunday until 2 PM, Supersnacks offers affordable dining options in a convenient location.\n\nPlease note that all locations have their own parking facilities nearby to make your visit more comfortable, and some have provided contact numbers for further assistance. The specific opening times may vary depending on the terms of operation or seasonal changes, so it's always best to verify these details before planning your visit.",
+        "retrieved_docs_count": 3,
+        "evaluation": {
+          "category": "recommendation",
+          "recommendation_score": 1.0,
+          "reasoning_score": 1.0,
+          "constraint_score": 1.0,
+          "diversity_score": 0.0,
+          "total_score": 0.85,
+          "has_recommendation": true,
+          "reasoning_indicators": 4,
+          "constraint_awareness": 4
+        }
+      }
+    ]
+  }
+}

@@ -3,11 +3,19 @@
 用法: python run_experiment.py
 """
 
+import sys
 import json
 import os
 from datetime import datetime
 from pathlib import Path
 from tqdm import tqdm
+
+if sys.platform == 'win32':
+    try:
+        os.system('color')  # 启用 ANSI 支持
+    except:
+        pass
+
 from rag_system import RAGSystem
 from evaluator import Evaluator
 

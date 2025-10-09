@@ -1,0 +1,44 @@
+{
+  "factual": {
+    "questions_count": 1,
+    "average_score": 0.88,
+    "details": [
+      {
+        "question": "What is the address of NUS Central Library?",
+        "answer": "12 Kent Ridge Drive, Singapore 119275.",
+        "retrieved_docs_count": 3,
+        "evaluation": {
+          "category": "factual",
+          "length_score": 1.0,
+          "specificity_score": 0.7,
+          "clarity_score": 1.0,
+          "total_score": 0.88,
+          "answer_length": 38,
+          "has_specific_info": true
+        }
+      }
+    ]
+  },
+  "recommendation": {
+    "questions_count": 1,
+    "average_score": 0.725,
+    "details": [
+      {
+        "question": "Recommend some restaurants in Utown area.",
+        "answer": "Based on the constraints provided, I would recommend the following restaurants in the Utown area:\n\n1. Hwang’s Korean Restaurant - This restaurant is a great option for those looking for a quick and delicious meal. It's open from 10:30am to 9:00pm, Monday to Saturday, making it a convenient choice for students with busy schedules.\n2. Flavours @ UTown - With a seating capacity of 700, this restaurant can accommodate large groups and is also open until 8:30pm on weekends. It's a good option for those looking for a variety of food options.\n3. Starbucks (Education Resource Centre) - For students who need a coffee fix or want to grab a quick bite, Starbucks is an excellent choice. It's open 24/7 during term time and 7:30am-9:00pm on weekends.\n\nThese recommendations are based on the operating hours of the restaurants in Utown area that were mentioned in Document 1. I have chosen these options because they offer a good balance between convenience, variety, and accessibility.",
+        "retrieved_docs_count": 3,
+        "evaluation": {
+          "category": "recommendation",
+          "recommendation_score": 1.0,
+          "reasoning_score": 1.0,
+          "constraint_score": 0.5,
+          "diversity_score": 0.0,
+          "total_score": 0.725,
+          "has_recommendation": true,
+          "reasoning_indicators": 2,
+          "constraint_awareness": 1
+        }
+      }
+    ]
+  }
+}
