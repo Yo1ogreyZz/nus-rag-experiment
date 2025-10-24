@@ -1,1 +1,91 @@
 Recommend some restaurants in Utown area.
+I'm looking for Halal food options in UTown. What do you recommend?
+Suggest a place in UTown that is Muslim-owned.
+Where can I find food in the Stephen Riady Centre?
+I need to eat late at night in UTown. What places are open?
+Recommend a restaurant in Town Plaza that has a large seating capacity.
+What options are there for Korean food in UTown?
+Where can I get coffee in the Education Resource Centre (ERC)?
+What are some Halal-certified restaurants in UTown?
+I want fast food in Town Plaza. Where can I go?
+Suggest some restaurants in Town Plaza that are open on Sundays.
+Where can I eat that is located near the CREATE Tower carpark?
+Recommend a dining location in UTown that has many stalls.
+What are some low-cost food options mentioned for the campus?
+Where can I find a restaurant in Town Plaza that is closed on Sundays?
+Suggest a place in UTown that is open daily.
+I'm looking for food near the Central Library. What is available?
+What are some healthy food options mentioned at the Medical Library Cafe?
+Where can I find vegetarian food options on campus?
+I want to go swimming. Where should I go?
+Recommend a facility for playing squash.
+Where can I play tennis on campus?
+I'm looking for a gym. What are the options?
+Where can I play badminton on campus?
+What facilities are available for track and field?
+I'm interested in indoor rock climbing. Where can I find this?
+Where can I play basketball or futsal?
+What fitness classes are available at the gyms?
+Where can I find a sauna or jacuzzi?
+I need a quiet place to study. What do you recommend?
+I need to work in a group. What study spaces are available?
+Recommend a study area that is open 24 hours.
+Where can I find individual study carrels for focused work?
+I'm a science student. Which library would be most useful for me?
+Where can I find library collections related to Chinese language and culture?
+I'm a law student. What library resources are available to me?
+Where can I find resources for medical and health sciences?
+I need to use software like MATLAB or Python. Where should I go?
+What resources are available for high-performance computing?
+Where can I find a 3D printing facility?
+I need help with my writing. What services can I use?
+Recommend a service for peer tutoring.
+Where can I get help with my study skills?
+I'm struggling with exam preparation. What support is available?
+Where can I get academic coaching?
+I need help improving my presentation skills. Where should I go?
+What online databases are available for research?
+I'm interested in entrepreneurship. What clubs could I join?
+Recommend some academic clubs for a computing student.
+What are some clubs for students interested in finance or consulting?
+I want to join a sports club. What options are there?
+What are some martial arts clubs on campus?
+I'm interested in arts and culture. What clubs are available?
+What are some performance or music clubs?
+I want to volunteer. What service clubs can I join?
+What clubs are available for hobbies like board games or gaming?
+What spiritual or religious groups are on campus?
+I want to play soccer. What club should I look for?
+Where can I find clubs related to web development?
+I'm interested in photography. Is there a club for that?
+What kind of dance clubs are there?
+I need to see a doctor. Where is the health center?
+I need dental services. Where can I go?
+Where can I get mental health counseling?
+I'm feeling very stressed. What support services do you recommend?
+What free health services are available for students?
+Where can I get physiotherapy on campus?
+What support is available for students with disabilities?
+I need to get from Kent Ridge to University Town. What bus service should I take?
+What is a free way to travel around campus?
+What is the best way to get to the Bukit Timah campus using the campus bus?
+What are some public transport options to get to campus?
+What are the options for cycling on campus?
+I need to get to the airport. What are my options?
+I need to mail a package. Where is the post office?
+Where can I find an ATM?
+I need to buy textbooks and stationery. Where should I go?
+I'm looking for a part-time job on campus. What are some options?
+I need help with my resume. What services are available?
+Where can I go for mock interviews?
+I'm an international student and need help with my student pass. Where should I go?
+I need financial help. What types of aid can I apply for?
+What student loan options are available?
+I need to request an official academic transcript. Where do I do this?
+Where can I get a document certified?
+I'm looking for an undergraduate hall with a large capacity. What do you suggest?
+Recommend a hall that has a 24-hour gym.
+What accommodation options are available for graduate students?
+What are some social spaces in UTown?
+Where can I see concerts or art exhibitions on campus?
+Where can I buy NUS merchandise?
