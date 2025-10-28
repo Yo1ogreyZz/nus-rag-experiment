@@ -213,11 +213,11 @@ def main():
     
     # 3. 定义要测试的模型
     models = [
-        "qwen2.5:3b",
-        "qwen2.5:1.5b",
-        "llama3.2:3b",
+        # "qwen2.5:3b",
+        # "qwen2.5:1.5b",
+        # "llama3.2:3b",
         "phi3:mini",
-        "deepseek-r1:1.5b"
+        # "deepseek-r1:1.5b"
     ]
     
     print(f"\n🤖 Models to test: {', '.join(models)}")
