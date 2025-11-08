@@ -1,0 +1,6 @@
+[
+  ".\\plot\\benchmark_overall_bar.png",
+  ".\\plot\\gpt5_overall_bar.png",
+  ".\\plot\\benchmark_radar.png",
+  ".\\plot\\gpt5_radar.png"
+]
